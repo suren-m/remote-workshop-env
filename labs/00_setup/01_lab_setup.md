@@ -25,11 +25,30 @@
     ./01_lab_tools.sh
 ```
 
-# vsonline comes with azure cli installed. Make sure you can log into your account by typing the below and following the instructions on your terminal.
+## Azure Cli setup
+
+1. vsonline comes with azure cli installed. Make sure you can log into your account by typing the below and following the instructions on your terminal.
 
 ```bash
     az login
 ```
+
+2. Check which subscription you have connected to:
+
+    ```bash
+    az account show
+    ```
+
+3. If you prefer, you can switch to a different subscription:
+
+    ```bash
+    az account set --subscription <subscription-name>
+    ```
+4. Run a command such as below to display all the resource groups in your subscription. (vs online one should appear)
+
+    ```bash
+    az group list
+    ```
 
 #### Install any dev tools and extensions you need on vs online
 
