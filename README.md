@@ -9,3 +9,8 @@
 ### Lab environment setup
 
 * see [01_lab_setup](labs/00_setup/01_lab_setup.md)
+
+
+### Get Started With Labs (as instructed)
+
+* see [Azure Labs](https://github.com/surenmcode/AzL200.git)
