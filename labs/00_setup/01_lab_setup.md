@@ -50,6 +50,12 @@
     az group list
     ```
 
+## Install Azure tools extension for vs code (recommended)
+
+Click on the extensions button from the left panel (shortcut: ctrl + shift + x) and search for `Azure Tools` extension. This is a meta extension that includes several extensions related to Azure that could be helpful during the labs.
+
+![azure_tools_extension](../../assets/azure_tools_vs_code_extension.png)
+
 #### Install any dev tools and extensions you need on vs online
 
 > Feel free to configure your vs online environment as you prefer. It already comes with dotnet and nodejs installed. 
