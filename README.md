@@ -1,4 +1,4 @@
-# Azure Workshop Remote Environment Setup
+# Remote Workshop Environment Setup
 
 ## Setup Tasks
 
