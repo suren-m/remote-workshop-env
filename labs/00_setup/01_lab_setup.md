@@ -56,6 +56,8 @@ Click on the extensions button from the left panel (shortcut: ctrl + shift + x) 
 
 ![azure_tools_extension](../../assets/azure_tools_vs_code_extension.png)
 
+Reload vs code online when prompted (or when the `Reload Required` button appears)
+
 #### Install any dev tools and extensions you need on vs online
 
 > Feel free to configure your vs online environment as you prefer. It already comes with dotnet and nodejs installed. 
