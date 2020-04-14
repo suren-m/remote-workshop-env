@@ -6,7 +6,7 @@
     git clone https://github.com/surenmcode/az200.git
 ```
 
-** cd az200 **
+**cd az200**
 
 > **Important** If you are on vs online, it is highly recommended to keep your lab work backed up in a version control hub such as github. Vs online is still in public preview and if your environment gets accidentally corrupted, you will lose your lab files. As always, please **do not** check-in any sensitive information into version control.
 
