@@ -3,7 +3,7 @@
 ### 01 Clone the repo into your vsonline workspace (or your environment of choice)
 
 ```bash
-    git clone https://github.com/surenmcode/az200-remote-env.git
+    git clone https://github.com/surenmcode/remote-workshop-env.git
 ```
 
 **cd az200**
