@@ -1,4 +1,4 @@
-# Containers Workshop
+# Azure Workshop
 
 ## Setup Tasks
 
