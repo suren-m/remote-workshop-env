@@ -1,12 +1,12 @@
 # Remote Workshop Environment Setup
 
-## Setup Tasks
+## Setup Tasks For VS Code Online
 
-### VS Online setup
+### VSCode Online setup 
 
 * See [00_vsonline_setup](labs/00_setup/00_vsonline_setup.md)
 
-### Lab environment setup
+### Lab environment setup 
 
 * see [01_lab_setup](labs/00_setup/01_lab_setup.md)
 
