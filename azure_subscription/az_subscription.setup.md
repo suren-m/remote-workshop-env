@@ -6,7 +6,7 @@
 
 * Create yourself a new `outlook / hotmail` account. 
 
-    * This can just be a temporary account for the purpose of this workshop but make sure to not forget the credentials for it. 
+    * This can just be a temporary account for the purpose of this workshop but make sure to not forget its credentials. 
 
     * You will be using this account to create your Azure subscription that will be used for workshop labs. 
 
