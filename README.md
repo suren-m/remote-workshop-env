@@ -1,16 +1,15 @@
 # Remote Workshop Environment Setup
 
-## Setup Tasks For VS Code Online
+####  Azure Account Setup from Subscription Pass
 
-### VSCode Online setup 
+> See: [azure_subscription_setup](./azure_subscription/azure_subscription_setup.md)
 
-* See [00_vsonline_setup](labs/00_setup/00_vsonline_setup.md)
+---
+####  Azure Cloud Shell Setup
 
-### Lab environment setup 
+> See: [cloud_shell_setup](./cloud_shell/cloud_shell_setup.md)
 
-* see [01_lab_setup](labs/00_setup/01_lab_setup.md)
+---
+#### Codespace Environment Setup (VS Code Online)
 
-
-### Get Started With Labs (as instructed)
-
-* see [Azure Labs](https://github.com/surenmcode/AzL200.git)
+> See: [codespaces_setup](./codespaces/codespaces_setup.md)
