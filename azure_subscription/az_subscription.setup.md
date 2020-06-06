@@ -4,7 +4,7 @@
 
 * Open your browser in **`private / incognito`** mode to avoid auto signing into your work account
 
-* Create yourself a new `outlook / hotmail` account. 
+* Create yourself a new `outlook / hotmail` account. (https://outlook.live.com/owa/)
 
     * This can just be a temporary account for the purpose of this workshop but make sure to not forget its credentials. 
 
