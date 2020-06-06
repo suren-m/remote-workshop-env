@@ -12,23 +12,21 @@
 
     ![cloud_shell_setup](./assets/cloud_shell_options.png)
 
-* Make sure the correct subscriptions is selected, and click on `Create Storage`. This may take a few minutes.
-
-    * If you are already familiar with Azure, feel free to click `advanced settings` and give your own names for resource groups, storage accounts for the azure shell.
+* Make sure the correct subscription is selected, and click on `Create Storage`. This may take a few minutes.
 
     ![cloud_shell_setup](./assets/azure_shell_create_storage_default.png)
 
-* Once your cloud shell is created, you should be able to see a welcome message followed by a prompt such as below.
+* Once your cloud shell is ready, you should see a welcome message such as below followed by a prompt.
 
     ![cloud_shell_setup](./assets/cloud_shell_welcome.png)
 
-* Behind the scenes, Azure would already have created a resource group for your shell's storage account as well.
+* Behind the scenes, Azure would already have created a resource group such as below for your shell's storage account as well.
 
     ![cloud_shell_setup](./assets/cloud_shell_rg.png)
 
-* If you're new to Azure Cloud Shell, be sure to take a look at below link for helpful tips.(such as copy and paste)
+* If you're new to Azure Cloud Shell, be sure to take a look at below link for helpful tips. (such as copy and paste)
 
-    > [Using the Cloud Shell Window](https://docs.microsoft.com/en-us/azure/cloud-shell/using-the-shell-window)
+    > **[Using the Cloud Shell Window](https://docs.microsoft.com/en-us/azure/cloud-shell/using-the-shell-window)**
 
 * Here is a quick overview of some of its features. 
 
