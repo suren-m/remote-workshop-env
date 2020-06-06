@@ -64,4 +64,3 @@
  Your subscription pass has a limited amount of credit and an expiration date. To get the most out of it, make sure to turn off / suspend any resources before logging out and use it before the validity expires.
 
 
-
