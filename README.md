@@ -2,7 +2,7 @@
 
 ####  Azure Account Setup from Subscription Pass
 
-> See: [azure_subscription_setup](./azure_subscription/azure_subscription_setup.md)
+> See: [azure_subscription_setup](./azure_subscription/az_subscription_setup.md)
 
 ---
 ####  Azure Cloud Shell Setup
