@@ -44,7 +44,7 @@
     
     ```
 
-## Exercise 2 - Deploy ACR
+## Exercise 2 - Deploy ACR (optional or just use docker hub)
 In this exercise, you will create an Azure Container Registry instance using the Azure CLI and setup integration between ACR and AKS. 
 
 ### Steps
