@@ -29,12 +29,20 @@
   ```bash
   az aks get-credentials --resource-group <aks-resource-group> --name <aks-name>
   ```
+    
+# Setup Kubectl in Codespace environment
 
-5. Verify everything worked as expect by running a command against your Kubernetes cluster.
+1. Install Kubectl in vs code environment (via its terminal)
 
-  ```bash
-  kubectl get all
-  ```
+    https://kubernetes.io/docs/tasks/tools/install-kubectl/
+
+2. Run some basic commands to ensure you're able to connect to your cluster.
+
+    ```
+    kubectl cluster-info
+    kubectl get all     
+    
+    ```
 
 ## Exercise 2 - Deploy ACR
 In this exercise, you will create an Azure Container Registry instance using the Azure CLI and setup integration between ACR and AKS. 
@@ -58,21 +66,3 @@ In this exercise, you will create an Azure Container Registry instance using the
     ```bash
     az aks update -n <aks-name> -g <aks-resource-group> --attach-acr <acr-name>
     ``` 
-    
-# Exercise 3 - Explore the Kubernetes Dashboard
-
-### Steps
-
-1. By default, the AKS cluster we created was deployed with Role Based Access Control (RBAC) enabled. This will cause errors when you first browse the dashboard, which is deployed with minimal read permissions. To get access to the dashboard, run the following command to create a `ClusterRoleBinding`:
-
-    ```bash
-    kubectl create clusterrolebinding kubernetes-dashboard --clusterrole=cluster-admin --serviceaccount=kube-system:kubernetes-dashboard
-    ```
-
-1. Run the following command to access the dashboard:
-
-    ```bash
-    az aks browse --resource-group <aks-resource-group> --name <aks-cluster-name>
-    ``` 
-    
- #### Now you can do your labs or practice k8s on your own cluster
