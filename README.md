@@ -14,6 +14,8 @@
 
 > See: [codespaces_setup](./codespaces/codespaces_setup.md)
 
-#### Creating your own AKS Cluster (via terminal from VS Code online)
+---
+
+### Creating your own AKS Cluster (via terminal from VS Code online)
 
 > See: [codespaces_setup](./aks_cluster_creation/01_create_your_own_aks_cluster_and_acr.md)
