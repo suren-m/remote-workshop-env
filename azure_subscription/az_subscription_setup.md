@@ -4,11 +4,13 @@
 
 * Open your browser in **`private / incognito`** mode to avoid auto signing into your work account
 
-* Create yourself a new `outlook / hotmail` account. (https://outlook.live.com/owa/)
+* Create yourself **a new `outlook / hotmail` account**. (https://outlook.live.com/owa/)
 
-    * This can just be a temporary account for the purpose of this workshop but make sure to not forget its credentials. 
+    * This can just be a temporary account for the purpose of this workshop but make sure to not forget its credentials.    
 
     * You will be using this account to create your Azure subscription that will be used for workshop labs. 
+    
+    * **_Please do not use any accounts associated with your organization_**
 
 * Once you've completed the above step, visit the below website to redeem your subscription pass.
 
