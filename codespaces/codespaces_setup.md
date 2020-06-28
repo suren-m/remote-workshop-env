@@ -63,6 +63,8 @@
 
 3. If it's all done correctly, you should notice `codespaces` appearing as a `target` in `Remote Explorer`. Now you can connect to it from your local machine's VS Code.
 
+    ![codespace-open-in-vscode](./assets/codespaces_target.png)
+
 4. This will provide a powerful setup and will allow you to directly access the `localhost`  on your browser when doing things like `port-forwarding`
 
 5. However, if you're new to `vs code`, it's best to skip this step for now.
