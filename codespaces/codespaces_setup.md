@@ -45,8 +45,9 @@
 
     ![codespaces_setup](./assets/codespaces_reconnect.png) 
 
+---
 
-## For Users already familiar with VS Code and its Remote Explorer capabilities
+## Bonus: For Users already familiar with VS Code and its Remote Explorer capabilities
 
 > If you're new to `vs code`, feel free to skip this step. You can always revisit it later.
 
