@@ -45,6 +45,8 @@
 
     ![codespaces_setup](./assets/codespaces_reconnect.png) 
 
+* If you're interested to know / learn more about vs code, see: https://code.visualstudio.com/docs/getstarted/tips-and-tricks 
+
 ---
 
 ## Bonus: For Users already familiar with VS Code and its Remote Explorer capabilities
@@ -65,4 +67,4 @@
 
 5. However, if you're new to `vs code`, it's best to skip this step for now.
 
-* If you're interested to know / learn more about vs code, see: https://code.visualstudio.com/docs/getstarted/tips-and-tricks 
+---
