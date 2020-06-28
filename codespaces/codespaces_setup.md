@@ -51,7 +51,7 @@
 
 ## Bonus: For Users already familiar with VS Code and its Remote Explorer capabilities
 
-> If you're new to `vs code`, feel free to skip this step. You can always revisit it later.
+> **If you're new to `vs code`, feel free to skip this step. You can always revisit it later.**
 
 1. If you are already familiar with VS Code's client/server model and its features such as `Remote Explorer` extension, then you can use the same to oepn `codespaces` from your `vs code` on your local / dev machine.
 
