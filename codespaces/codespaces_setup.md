@@ -45,4 +45,23 @@
 
     ![codespaces_setup](./assets/codespaces_reconnect.png) 
 
+
+## For Users already familiar with VS Code and its Remote Explorer capabilities
+
+> If you're new to `vs code`, feel free to skip this step. You can always revisit it later.
+
+1. If you are already familiar with VS Code's client/server model and its features such as `Remote Explorer` extension, then you can use the same to oepn `codespaces` from your `vs code` on your local / dev machine.
+
+2. This is done by `opening` codespace in `vs code` as below
+
+    ![codespace-open-in-vscode](./assets/codespaces_open_in_vscode.png)
+
+    > The above will prompt you to install `codespaces` extension on your vs code on local machine, so you should have permissions for this.
+
+3. If it's all done correctly, you should notice `codespaces` appearing as a `target` in `Remote Explorer`. Now you can connect to it from your local machine's VS Code.
+
+4. This will provide a powerful setup and will allow you to directly access the `localhost`  on your browser when doing things like `port-forwarding`
+
+5. However, if you're new to `vs code`, it's best to skip this step for now.
+
 * If you're interested to know / learn more about vs code, see: https://code.visualstudio.com/docs/getstarted/tips-and-tricks 
