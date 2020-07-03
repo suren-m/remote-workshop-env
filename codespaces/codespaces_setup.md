@@ -49,7 +49,9 @@
 
 ---
 
-## Bonus: For Users already familiar with VS Code and its Remote Explorer capabilities
+## Bonus: (to be done only on the day of the workshop) 
+
+### For Users already familiar with VS Code and its Remote Explorer capabilities
 
 > **If you're new to `vs code`, feel free to skip this step. You can always revisit it later.**
 
